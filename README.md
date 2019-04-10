@@ -61,8 +61,54 @@ New feature
 - [Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search=Login%20UI)
 - [Pinterest](https://www.pinterest.com/search/pins/?q=login%20ui&rs=typed&term_meta[]=login%7Ctyped&term_meta[]=ui%7Ctyped)
 
-### Onboarding
 ### Sign up
+Logo
+>Either your complete logo or a symbol mark
+
+Title
+>Context as to what you would like the user to do
+
+Explanation
+>Describe the basic features of creating an account and set their expectations as to what they can achieve.
+
+Account identification
+>A unique identifier for the user to log in with
+
+- An email address is the most commonly used, as you are also gaining a method to communicate with them beyond whatever they do next
+
+Setting a password
+>A secure, private code that allows them to access their account in the future
+
+- Include a password strength indicator
+- Include password requirements (length, special characters)
+- Create the ability to make the password visible
+
+Link to login
+>A user may already have an account and landed on this page anyway.
+
+#### Optional additions
+>Not always necessary, but they can have their perks!
+
+Social media to sign up
+
+Turn a few text fields into one-click by allowing users to connect via Facebook or Google.
+
+Current active customer count
+
+Showcasing how many people are using and enjoying your product can evoke a fear of missing out for potential users.
+
+Testimonial or social proof
+
+Reinforcing the brand and product never goes out of style.
+
+Blog post
+
+An opportunity to show off some amazing content your marketing team put together.
+
+Billing plans and trial period (if payment is involved)
+
+Clearly define the length of the trial period and when they will be charged.
+### Onboarding
 ### Pricing
 ### 404
 ### Contact us

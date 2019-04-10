@@ -8,7 +8,8 @@ Logo:
 Title:
 - Context as to what you would like the user to do
 
-Account identification (a unique identifier for the user):
+Account identification:
+> a unique identifier for the user
 - username
 - email address
 - phone number
@@ -19,11 +20,11 @@ Password
 - Create the ability to make the password visible
 
 Link to reset password
-A user may forget their unique code - let them change it!
+>A user may forget their unique code - let them change it!
 - Position this link close to your password input field
 
 Link to sign up
-A user may not have an account and landed on this page anyway.
+>A user may not have an account and landed on this page anyway.
 
 #### Optional additions
 Not always necessary, but they can have their perks!

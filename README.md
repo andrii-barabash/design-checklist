@@ -24,13 +24,18 @@ A user may forget their unique code - let them change it!
 - Position this link close to your password input field
 
 Link to sign up
--A user may not have an account and landed on this page anyway.
+A user may not have an account and landed on this page anyway.
 
-Optional additions
+#### Optional additions
 Not always necessary, but they can have their perks!
 
 Social media to login
-Turn a few text fields into one-click by allowing users to connect via Facebook or Google.
+Turn a few text fields into one-click by allowing users to connect via 
+- Facebook 
+- Google.
+- LinkedIn.
+- Instagram.
+- Twitter.
 
 Testimonial
 Reinforcing the brand and product never goes out of style.

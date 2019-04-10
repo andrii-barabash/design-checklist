@@ -14,7 +14,6 @@ Account identification (a unique identifier for the user):
 - phone number
 
 Password
-A secure, private code that allows access to their account
 - Include a password strength indicator
 - Include password requirements (length, special characters)
 - Create the ability to make the password visible

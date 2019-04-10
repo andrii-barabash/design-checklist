@@ -45,6 +45,22 @@ Blog post
 
 New feature
 >The perfect way to build excitement for something new right before a user is about to log in and see it!
+
+#### Research and articles to read
+- [Designing a user friendly login](https://uxdesign.cc/designing-a-user-friendly-login-25855ae0cc88?ref=checklist.design)
+- [Designing UX Login Form and Process](https://uxplanet.org/designing-ux-login-form-and-process-8b17167ed5b9?ref=checklist.design)
+- [10 tips for a better login page and process](http://www.uxforthemasses.com/login-page/?ref=checklist.design)
+
+#### Great examples to follow
+- [Intercom](https://app.intercom.io/admins/sign_in?ref=checklist.design)
+- [Wedflow](https://webflow.com/dashboard/login?ref=checklist.design)
+- [Dropbox](https://www.dropbox.com/login?ref=checklist.design)
+
+#### UI inspiration
+- [Dribbble](https://dribbble.com/search?q=login)
+- [Behance](https://www.behance.net/search?content=projects&sort=appreciations&time=week&featured_on_behance=true&search=Login%20UI)
+- [Pinterest](https://www.pinterest.com/search/pins/?q=login%20ui&rs=typed&term_meta[]=login%7Ctyped&term_meta[]=ui%7Ctyped)
+
 ### Onboarding
 ### Sign up
 ### Pricing

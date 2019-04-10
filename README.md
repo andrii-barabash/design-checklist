@@ -53,7 +53,7 @@ New feature
 
 #### Great examples to follow
 - [Intercom](https://app.intercom.io/admins/sign_in?ref=checklist.design)
-- [Wedflow](https://webflow.com/dashboard/login?ref=checklist.design)
+- [Webflow](https://webflow.com/dashboard/login?ref=checklist.design)
 - [Dropbox](https://www.dropbox.com/login?ref=checklist.design)
 
 #### UI inspiration

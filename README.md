@@ -134,9 +134,9 @@ If there is a list, you must specify:
 - search bar if needed.
 ## Assets
 ### Stylesheet
-### Animation
-### Microinteraction
-### Screen description
+### Animations
+### Microinteractions
+### Screen descriptions
 ### Copy
 ## Error messages
 

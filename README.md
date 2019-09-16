@@ -138,7 +138,7 @@ If there is a list, you must specify:
 ### Microinteractions
 ### Screen descriptions
 ### Copy
-## Error messages
+- Error messages
 
 References:
 https://www.checklist.design/

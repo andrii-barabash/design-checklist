@@ -125,3 +125,9 @@ Clearly define the length of the trial period and when they will be charged.
 ### Search
 ### Cards
 ### Tables
+### List
+If there is a list, you must specify:
+- sorting order logic and explicit UI sign that reflect its meaning (i.e A-Z).
+- filters if any.
+- search bar if needed.
+
